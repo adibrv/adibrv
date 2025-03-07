@@ -41,3 +41,12 @@ A Computer Science student with interest in IT and Network Administration.
 </div>
 
 #
+
+### Recent Projects
+
+**`Automated PIR Cat Water Fountain (Click on picture for Video Demonstration)`** 
+[<img src="https://github.com/user-attachments/assets/c7a3e802-35e2-4bde-857d-92bcec137a42">](https://malayancollegesmindanaoo365-my.sharepoint.com/personal/agamutan_mcm_edu_ph/_layouts/15/stream.aspx?id=%2Fpersonal%2Fagamutan%5Fmcm%5Fedu%5Fph%2FDocuments%2FSY%202023%2D2024%2F3T%2FCS125P%20M2SA%2FM2SA%20Sensor%20Test%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E6068f15c%2D0ba9%2D4e6c%2Daba8%2D1ac40f10767c)
+
+**`Research Proposal`**
+![M3SA - Carballo Gamutan Yosores](https://github.com/user-attachments/assets/c4acf702-da02-4651-b33f-d839f25879f3)
+
